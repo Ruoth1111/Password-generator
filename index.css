@@ -40,6 +40,7 @@ p{
     border: none;
     margin-top: 20px;
      margin-bottom: 50px;
+     cursor: pointer;
 }
 #mainbtn:active{
     background-color: #18f2a9;
